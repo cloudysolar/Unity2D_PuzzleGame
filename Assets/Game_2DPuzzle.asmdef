@@ -1,0 +1,14 @@
+{
+    "name": "Game_2DPuzzle",
+    "rootNamespace": "Game_2DPuzzle",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
